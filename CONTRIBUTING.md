@@ -37,6 +37,10 @@ Create a *branch* off the `skypyproject` master branch. Working on unique branch
 
 ### Hack away!
 
+Write the code you want to contribute
+
+### Upload your changes
+
 Write the new code you would like to contribute and *commit* it to the feature branch on your local repository. Ideally commit small units of work often with clear and descriptive commit messages describing the changes you made. To commit changes to a file:
 
   ```bash
